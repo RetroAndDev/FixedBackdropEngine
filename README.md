@@ -5,6 +5,10 @@
 [![C++](https://img.shields.io/badge/C++-17-00599C.svg?logo=c%2B%2B)]()
 [![Status](https://img.shields.io/badge/status-Work%20In%20Progress-yellow.svg)]()
 
+> ⚠️⚠️⚠️ WARNING
+> 
+>  **This repository** is the fork of the main project and will be the most up-to-date as it this the lead developer's fork. The source code under it should not be used in production
+
 <p>
   <i>Bringing back the golden age of survival horror, one pre-rendered background at a time.</i>
 </p>
